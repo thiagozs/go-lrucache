@@ -83,3 +83,11 @@ Internal helpers (`add`, `remove`, `moveToFront`, `removeLRU`) do not lock by th
 
 ### Current limitations
 - No explicit validation for `capacity <= 0`.
+
+## License
+
+This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Autor
+
+2026, Thiago Zilli Sarmento :heart:
