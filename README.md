@@ -47,7 +47,7 @@ go test ./...
 - [lrucache.go](lrucache.go): implementacao da biblioteca.
 - [lrucache_test.go](lrucache_test.go): testes unitarios do pacote.
 - [examples/main.go](examples/main.go): exemplo executavel consumindo a biblioteca.
-- [examples/main_test.go](examples/main_test.go): teste do exemplo para validar o uso da biblioteca.
+
 
 ### API principal
 - `NewLRUCache(options ...Option) *LRUCache`: cria um cache com capacidade automatica por padrao.
